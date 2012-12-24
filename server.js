@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 var path = require('path');
 var architect = require("architect");
 var spawn = require("child_process").spawn;
